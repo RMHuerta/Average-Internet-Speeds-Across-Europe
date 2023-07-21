@@ -16,6 +16,10 @@ El grafico descarga por trimestre muestra que la descarga fue aumentando constan
 
 ![image](https://github.com/RMHuerta/Average-Internet-Speeds-Across-Europe/assets/135277540/0dd15402-e104-40e5-83c9-7ebe1201c1aa)
 
+
+
 References:
+
 Article: (https://datavis.europeandatajournalism.eu/obct/connectivity/)
+
 Data Source: Speedtest by Ookla Global Fixed and Mobile Network Performance Maps
