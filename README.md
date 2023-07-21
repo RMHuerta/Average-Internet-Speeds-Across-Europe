@@ -20,6 +20,6 @@ El grafico descarga por trimestre muestra que la descarga fue aumentando constan
 
 References:
 
-Article: (https://datavis.europeandatajournalism.eu/obct/connectivity/)
+Article: https://datavis.europeandatajournalism.eu/obct/connectivity/
 
 Data Source: Speedtest by Ookla Global Fixed and Mobile Network Performance Maps
